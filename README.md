@@ -1,6 +1,8 @@
+# Cazá do Sport 
+
 Projeto de loja virtual, sendo possivel visualizar os produtos, ver informações sobre eles, add/remover do carrinho e finalizar a compra.
 
-# React + TypeScript + Vite
+React + TypeScript + Vite
 
 Necessário ter React e Node instalados.
 
